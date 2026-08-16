@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lf123lf.aternos.me:21998",
+    "ip": "lf123lf.aternos.me",
     "port": 21998,
     "version": "",
     "try-creative": false
